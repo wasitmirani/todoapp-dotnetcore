@@ -31,3 +31,4 @@ D:\development\dotnet\AspCoreWebMVC\AspCoreWebMVC\obj\Debug\net8.0\refint\AspCor
 D:\development\dotnet\AspCoreWebMVC\AspCoreWebMVC\obj\Debug\net8.0\AspCoreWebMVC.pdb
 D:\development\dotnet\AspCoreWebMVC\AspCoreWebMVC\obj\Debug\net8.0\AspCoreWebMVC.genruntimeconfig.cache
 D:\development\dotnet\AspCoreWebMVC\AspCoreWebMVC\obj\Debug\net8.0\ref\AspCoreWebMVC.dll
+D:\development\dotnet\AspCoreWebMVC\AspCoreWebMVC\obj\Debug\net8.0\AspCoreWebMVC.sourcelink.json

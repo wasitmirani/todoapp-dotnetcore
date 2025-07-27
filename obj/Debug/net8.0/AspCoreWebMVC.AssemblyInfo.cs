@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspCoreWebMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b10321fb8cd83ceeaf4c2a7684977ac5014cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspCoreWebMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspCoreWebMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
